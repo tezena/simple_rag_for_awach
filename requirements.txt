@@ -1,0 +1,10 @@
+langchain
+langchain_chroma
+langchain_community
+langchain_openai
+langchain_google_vertexai
+langchain_google_genai
+bs4
+langchain_text_splitters
+dotenv
+flask
