@@ -34,9 +34,6 @@ python main.py
 - `main.py`: The main script that runs the RAG technique.
 - `requirements.txt`: List of required Python packages.
 
-## Contact
-
-For any questions or suggestions, feel free to open an issue or contact the repository maintainer.
 
 ---
 
